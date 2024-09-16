@@ -1,5 +1,5 @@
 - Hola! I’m Ernesto, a 3D artist and creative.
-- I was a character rigging at SONY Pictures Imageworks and a 3D artist for on-air graphics for WWE.
+- I was a character rigging intern at SONY Pictures Imageworks and a 3D artist for on-air graphics for WWE.
 - I'm expanding my knowledge in tool development for film and games to make creating art more accessible and intutive.
 
 - You can find my work at https://ernestosanzmartinez.wixsite.com/portfolio
