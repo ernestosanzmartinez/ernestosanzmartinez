@@ -1,5 +1,5 @@
 - Hola! I’m Ernesto, a 3D artist and creative.
-- I was a character rigging intern at SONY Pictures Imageworks and a 3D artist for on-air graphics for WWE.
+- I'm a Technical character Animation Intern at EPIC Games. Previously, I was a character rigging intern at SONY Pictures Imageworks.
 - I'm expanding my knowledge in tool development for film and games to make creating art more accessible and intutive.
 
 - You can find my work at https://ernestosanzmartinez.wixsite.com/portfolio
